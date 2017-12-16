@@ -1,0 +1,33 @@
+form {
+	width: 30%;
+	margin: 0 auto;
+}
+
+#delete {
+	margin: 0 0;
+	display: inline;
+}
+
+.delete {
+	margin: 0 0;
+	display: inline;
+}
+h2 {
+	text-align: center;
+}
+
+a {
+   margin: 0 auto;
+}
+
+.thumbnail {
+	padding: 0;
+}
+
+.thumbnail img {
+	width: 100%;
+}
+
+.thumbnail .caption-full {
+	padding: 10px;
+}
